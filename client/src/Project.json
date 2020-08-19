@@ -40,7 +40,7 @@
         "title": "Budget Tracker",
         "image": "./images/BudgetTracker.png",
         "description": "PWA app that allows user to input and save transactions whether or not Internet service is available.", 
-        "tech": "Tech:  Manifest, Server Worker and Javascript to cache transactions.",
+        "tech": "Tech:  Manifest, Service Worker and Javascript to cache transactions.",
         "linkToApp": "https://mighty-brushlands-36668.herokuapp.com/",
         "linkToRepo": "https://github.com/JIllWesterfelhaus/BudgetTracker"
       },
