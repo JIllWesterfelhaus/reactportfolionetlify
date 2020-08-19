@@ -1,0 +1,64 @@
+[
+  {
+    "id": 0,
+    "title": "Group Project: Flix: Movies and TV When You Want ",
+    "image": "./images/flix.png",
+    "description":"App to look up desired movies and TV shows to see what streaming services offer them, and also to save favorites.  Group project with Tressa Park and Bikram Shankhar.",
+    "tech": "Tech: React, React Router, Express, Node, MongoDB, Redux, Material UI.",
+    "linkToApp": "https://movie-tracker-user.herokuapp.com/",
+    "linkToRepo": "https://github.com/flix-project/flix"
+  },
+    {
+      "id": 1,
+      "title": "Group Project: My Pantry",
+      "image": "./images/MyPantry.png",
+      "description": "App for finding recipes based on ingredients the user already has on hand. Group project with Jules Lazar and Mohmed Vaid.",
+      "tech": "Tech: Spoonacular API, Sequelize, MySQL, Passport, Bulma, Express, Express Handlebars, ESLint, Travis.",
+      "linkToApp": "http://shielded-harbor-38774.herokuapp.com/",
+      "linkToRepo": "https://github.com/Hot-Fixers/Project2"
+    },
+    {
+        "id": 2,
+        "title": "Group Project: Flyte!",
+        "image": "./images/Flyte.png",
+        "description": "App that tracks history of stock prices and also displays current news about searched stocks. Group project with Alex Bailon, Bikram Shankhar, Zaki Khan and Kyle Resurreccion.",
+        "tech": "Tech:  Materialize, Rally, Alpha Vantage API, IEX Cloud API, Chart.js, Yahoo Finance News API, JQuery, HTML, CSS, JS.",
+        "linkToApp": "https://kyleres.github.io/Finance_App/",
+        "linkToRepo": "https://github.com/kyleres/Finance_App"
+      },
+      {
+        "id": 3,
+        "title": "Eat Da Burger!",
+        "image": "./images/burger.png",
+        "description": "App that tracks burgers the user has eaten and wants to try.",
+        "tech": "Tech:  Node, mySQL, Handlebars, Express.",
+        "linkToApp": "https://limitless-escarpment-12108.herokuapp.com/",
+        "linkToRepo": "https://github.com/JIllWesterfelhaus/burger"
+      },
+      {
+        "id": 4,
+        "title": "Budget Tracker",
+        "image": "./images/BudgetTracker.png",
+        "description": "PWA app that allows user to input and save transactions whether or not Internet service is available.", 
+        "tech": "Tech:  Manifest, Server Worker and Javascript to cache transactions.",
+        "linkToApp": "https://mighty-brushlands-36668.herokuapp.com/",
+        "linkToRepo": "https://github.com/JIllWesterfelhaus/BudgetTracker"
+      },
+      {
+        "id": 5,
+        "title": "Note Taker",
+        "image": "./images/NoteTaker.png",
+        "description": "App that allows user to create and delete notes.",  "tech": "Tech:  Express, Node, and Javascript.",
+        "linkToApp": "https://warm-mesa-71513.herokuapp.com/",
+        "linkToRepo": "https://github.com/JIllWesterfelhaus/NoteTaker"
+      },
+      {
+        "id": 6,
+        "title": "Team Roster",
+        "image": "./images/TeamRoster.png",
+        "description": "App that creates and displays current information about a work team.  App generates HTML in Node. Click on Link to App to see demonstration video.",
+        "tech":  "Tech:  node.js, Jest, Inquirer and Javascript.",
+        "linkToApp": "https://youtu.be/JygOPosMV5o",
+        "linkToRepo": "https://github.com/JIllWesterfelhaus/EmployeeSummary2"
+      }
+]
