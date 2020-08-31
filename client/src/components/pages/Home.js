@@ -1,5 +1,6 @@
 import React from "react";
 import Headshot from "../JW headshot.png";
+import { Grid, Row, Col } from 'react-bootstrap';
 
 function Home() {
   return (

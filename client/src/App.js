@@ -6,20 +6,21 @@ import AboutMe from "./components/pages/AboutMe";
 import Portfolio from "./components/pages/Portfolio";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import  "./index.css";
+import "./index.css";
+import { Grid, Row, Col } from 'react-bootstrap';
 
 function App() {
   return (
     <Router>
       <div>
         <Navtabs />
-        <Header/>
+        <Header />
         <Route exact path="/" component={Home} />
         <Route exact path="/home" component={Home} />
         <Route exact path="/about" component={AboutMe} />
         <Route exact path="/portfolio" component={Portfolio} />
-        <Footer/>
-        
+        <Footer />
+
       </div>
     </Router>
   );
