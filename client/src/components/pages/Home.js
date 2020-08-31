@@ -8,12 +8,9 @@ function Home() {
       <h1>Hi!</h1>
 
 
-
       <div className="Headshot" style={{ display: "flex", justifyContent: "center" }}>
         <img className="rounded-circle" style={{ width: "35%" }} src={Headshot} alt="Jill Westerfelhaus" />
       </div>
-
-
 
 
       <h5 className="text-center">I am a recent graduate of Northwestern University's Full Stack Web Development Coding Bootcamp.</h5>
