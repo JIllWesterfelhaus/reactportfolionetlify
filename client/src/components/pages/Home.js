@@ -7,9 +7,14 @@ function Home() {
     <div className="homepage">
       <h1>Hi!</h1>
 
+
+
       <div className="Headshot" style={{ display: "flex", justifyContent: "center" }}>
         <img className="rounded-circle" style={{ width: "35%" }} src={Headshot} alt="Jill Westerfelhaus" />
       </div>
+
+
+
 
       <h5 className="text-center">I am a recent graduate of Northwestern University's Full Stack Web Development Coding Bootcamp.</h5>
 
@@ -24,7 +29,7 @@ function Home() {
       <h5 className="text-center"><a href="https://www.linkedin.com/in/jill-westerfelhaus-a821761a/" target="_blank">LinkedIn</a></h5>
       <h5 className="text-center"><a href="https://github.com/JIllWesterfelhaus" target="_blank">GitHub</a></h5>
       <h5 className="text-center"><a href="https://drive.google.com/file/d/1uI29ld_OinWKOvuB_AKhaZKmx78qHQEb/view?usp=sharing" target="_blank">Resume</a></h5>
-    </div>
+    </div >
 
 
   );
